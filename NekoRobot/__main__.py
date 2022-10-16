@@ -115,7 +115,7 @@ START_MSG = "I'm Awake Already!\n<b>Haven't Slept Since:</b> <code>{}</code>"
 PM_START_TEXT = """
 ────「 [{}](https://telegra.ph/file/4bf4b16a4e561dac5ad62.jpg) 」────
 *Hola! {},*
-*I am an Anime Themed Advance Group Management Bot With Lot Of Sexy Features.*
+*I am an Anime Themed Advance Group Management Bot With Lot Of Fun Features.*
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 ❍ *Uptime:* `{}`
 ❍ `{}` *Users, Across* `{}` *Chats.*
