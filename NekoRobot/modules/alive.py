@@ -27,7 +27,7 @@ import asyncio
 import datetime
 from datetime import datetime
 
-from pyrogram import __version__ as pyrover
+from pyrogram import __version__ as pyrover, python_version
 from telethon import Button
 from telethon import __version__ as tlhver
 
